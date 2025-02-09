@@ -35,19 +35,19 @@
   - If the door is opened mid-cycle, the process **pauses** and resumes when closed and confirmed via button press.
 
 ## 🏗️ Initial Design
-_(Insert design images here)_
+_![IMG_0796](https://github.com/user-attachments/assets/d7c51cce-04f5-4b44-8c44-72eaed7d8ea0)
+
 
 ## 🔄 FSM (Finite State Machine) Diagram
-_(Insert FSM diagram here)_
+_![IMG_0799](https://github.com/user-attachments/assets/8dddaff0-743e-478c-8138-d689c81e2635)
+
 
 ## 🛠️ Hardware Implementation
-_(Insert final hardware images here)_
-
-## 📜 Source Code
-- Available on GitHub: [GitHub Repository](https://github.com/Hello-Jin-World/harman_atmega128a/tree/main/09_WASHING_MACHINE)
+_![IMG_0795](https://github.com/user-attachments/assets/5fe4a8e7-d926-475e-bc66-999eca368f6e)
 
 ## 📊 Motor Control PWM Waveform Analysis
-_(Insert waveform images here)_
+_![IMG_0801](https://github.com/user-attachments/assets/488a3e8a-7559-4a86-99d9-5e74bfcc19f5)
+
 
 ## 🎥 Demo Video
 - Watch the working prototype: [YouTube Video](https://youtu.be/nHj1sp85_1E?si=EzmtrwecQJhctsFp)

@@ -35,18 +35,18 @@
   - If the door is opened mid-cycle, the process **pauses** and resumes when closed and confirmed via button press.
 
 ## 🏗️ Initial Design
-_![IMG_0796](https://github.com/user-attachments/assets/d7c51cce-04f5-4b44-8c44-72eaed7d8ea0)
+![IMG_0796](https://github.com/user-attachments/assets/d7c51cce-04f5-4b44-8c44-72eaed7d8ea0)
 
 
 ## 🔄 FSM (Finite State Machine) Diagram
-_![IMG_0799](https://github.com/user-attachments/assets/8dddaff0-743e-478c-8138-d689c81e2635)
+![IMG_0799](https://github.com/user-attachments/assets/8dddaff0-743e-478c-8138-d689c81e2635)
 
 
 ## 🛠️ Hardware Implementation
-_![IMG_0795](https://github.com/user-attachments/assets/5fe4a8e7-d926-475e-bc66-999eca368f6e)
+![IMG_0795](https://github.com/user-attachments/assets/5fe4a8e7-d926-475e-bc66-999eca368f6e)
 
 ## 📊 Motor Control PWM Waveform Analysis
-_![IMG_0801](https://github.com/user-attachments/assets/488a3e8a-7559-4a86-99d9-5e74bfcc19f5)
+![IMG_0801](https://github.com/user-attachments/assets/488a3e8a-7559-4a86-99d9-5e74bfcc19f5)
 
 
 ## 🎥 Demo Video

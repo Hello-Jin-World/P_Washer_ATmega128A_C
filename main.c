@@ -59,8 +59,8 @@ int main(void)
 	init_button();
 	init_timer3_pwm();
 	init_n289n();
-	
-	stdout = &OUTPUT;  // printf가 동작 될 수 있도록 stdout에 OUTPUT 포인터 assign
+	// printf가 동작 될 수 있도록 stdout에 OUTPUT 포인터 assign
+	stdout = &OUTPUT;
 	
 	DDRA=0xff;   // led를 출력 모드로
 	sei();     // 전역적으로 interrupt 허용
